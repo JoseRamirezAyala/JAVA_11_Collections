@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.monotonic.collections._7_sets.before.WeightAwareProductCatalogueTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2023-01-09T23:23:30" hostname="MTY-J7UVUA1NQ8D" time="0.0">
+  <properties/>
+  <testcase name="shouldFindLighterProducts" classname="com.monotonic.collections._7_sets.before.WeightAwareProductCatalogueTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
